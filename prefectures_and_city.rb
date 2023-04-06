@@ -1,14 +1,14 @@
 [
 	{
-		id: '01', 
-		name: '北海道', 
-		short: '北海道', 
-		kana: 'ホッカイドウ', 
-		en: 'hokkaido', 
+		id: '01',
+		name: '北海道',
+		short: '北海道',
+		kana: 'ホッカイドウ',
+		en: 'hokkaido',
 		cities: [
 			{
-				id: '01100', 
-				name: '札幌市', 
+				id: '01100',
+				name: '札幌市',
 				words: [
 					{ id: '01101', name: '中央区' },
 					{ id: '01102', name: '北区' },
@@ -209,11 +209,11 @@
 		]
 	},
 	{
-		id: '02', 
-		name: '青森県', 
-		short: '青森', 
-		kana: 'アオモリケン', 
-		en: 'aomori', 
+		id: '02',
+		name: '青森県',
+		short: '青森',
+		kana: 'アオモリケン',
+		en: 'aomori',
 		cities: [
 			{ id: '02201', name: '青森市' },
 			{ id: '02202', name: '弘前市' },
@@ -258,11 +258,11 @@
 		]
 	},
 	{
-		id: '03', 
-		name: '岩手県', 
-		short: '岩手', 
-		kana: 'イワテケン', 
-		en: 'iwate', 
+		id: '03',
+		name: '岩手県',
+		short: '岩手',
+		kana: 'イワテケン',
+		en: 'iwate',
 		cities: [
 			{ id: '03201', name: '盛岡市' },
 			{ id: '03202', name: '宮古市' },
@@ -300,15 +300,15 @@
 		]
 	},
 	{
-		id: '04', 
-		name: '宮城県', 
-		short: '宮城', 
-		kana: 'ミヤギケン', 
-		en: 'miyagi', 
+		id: '04',
+		name: '宮城県',
+		short: '宮城',
+		kana: 'ミヤギケン',
+		en: 'miyagi',
 		cities: [
 			{
-				id: '04100', 
-				name: '仙台市', 
+				id: '04100',
+				name: '仙台市',
 				words: [
 					{ id: '04101', name: '青葉区' },
 					{ id: '04102', name: '宮城野区' },
@@ -354,11 +354,11 @@
 		]
 	},
 	{
-		id: '05', 
-		name: '秋田県', 
-		short: '秋田', 
-		kana: 'アキタケン', 
-		en: 'akita', 
+		id: '05',
+		name: '秋田県',
+		short: '秋田',
+		kana: 'アキタケン',
+		en: 'akita',
 		cities: [
 			{ id: '05201', name: '秋田市' },
 			{ id: '05202', name: '能代市' },
@@ -388,11 +388,11 @@
 		]
 	},
 	{
-		id: '06', 
-		name: '山形県', 
-		short: '山形', 
-		kana: 'ヤマガタケン', 
-		en: 'yamagata', 
+		id: '06',
+		name: '山形県',
+		short: '山形',
+		kana: 'ヤマガタケン',
+		en: 'yamagata',
 		cities: [
 			{ id: '06201', name: '山形市' },
 			{ id: '06202', name: '米沢市' },
@@ -432,11 +432,11 @@
 		]
 	},
 	{
-		id: '07', 
-		name: '福島県', 
-		short: '福島', 
-		kana: 'フクシマケン', 
-		en: 'fukushima', 
+		id: '07',
+		name: '福島県',
+		short: '福島',
+		kana: 'フクシマケン',
+		en: 'fukushima',
 		cities: [
 			{ id: '07201', name: '福島市' },
 			{ id: '07202', name: '会津若松市' },
@@ -500,11 +500,11 @@
 		]
 	},
 	{
-		id: '08', 
-		name: '茨城県', 
-		short: '茨城', 
-		kana: 'イバラキケン', 
-		en: 'ibaraki', 
+		id: '08',
+		name: '茨城県',
+		short: '茨城',
+		kana: 'イバラキケン',
+		en: 'ibaraki',
 		cities: [
 			{ id: '08201', name: '水戸市' },
 			{ id: '08202', name: '日立市' },
@@ -553,11 +553,11 @@
 		]
 	},
 	{
-		id: '09', 
-		name: '栃木県', 
-		short: '栃木', 
-		kana: 'トチギケン', 
-		en: 'tochigi', 
+		id: '09',
+		name: '栃木県',
+		short: '栃木',
+		kana: 'トチギケン',
+		en: 'tochigi',
 		cities: [
 			{ id: '09201', name: '宇都宮市' },
 			{ id: '09202', name: '足利市' },
@@ -587,11 +587,11 @@
 		]
 	},
 	{
-		id: '10', 
-		name: '群馬県', 
-		short: '群馬', 
-		kana: 'グンマケン', 
-		en: 'gunma', 
+		id: '10',
+		name: '群馬県',
+		short: '群馬',
+		kana: 'グンマケン',
+		en: 'gunma',
 		cities: [
 			{ id: '10201', name: '前橋市' },
 			{ id: '10202', name: '高崎市' },
@@ -631,15 +631,15 @@
 		]
 	},
 	{
-		id: '11', 
-		name: '埼玉県', 
-		short: '埼玉', 
-		kana: 'サイタマケン', 
-		en: 'saitama', 
+		id: '11',
+		name: '埼玉県',
+		short: '埼玉',
+		kana: 'サイタマケン',
+		en: 'saitama',
 		cities: [
 			{
-				id: '11100', 
-				name: 'さいたま市', 
+				id: '11100',
+				name: 'さいたま市',
 				words: [
 					{ id: '11101', name: '西区' },
 					{ id: '11102', name: '北区' },
@@ -718,15 +718,15 @@
 		]
 	},
 	{
-		id: '12', 
-		name: '千葉県', 
-		short: '千葉', 
-		kana: 'チバケン', 
-		en: 'chiba', 
+		id: '12',
+		name: '千葉県',
+		short: '千葉',
+		kana: 'チバケン',
+		en: 'chiba',
 		cities: [
 			{
-				id: '12100', 
-				name: '千葉市', 
+				id: '12100',
+				name: '千葉市',
 				words: [
 					{ id: '12101', name: '中央区' },
 					{ id: '12102', name: '花見川区' },
@@ -792,11 +792,11 @@
 		]
 	},
 	{
-		id: '13', 
-		name: '東京都', 
-		short: '東京', 
-		kana: 'トウキョウト', 
-		en: 'tokyo', 
+		id: '13',
+		name: '東京都',
+		short: '東京',
+		kana: 'トウキョウト',
+		en: 'tokyo',
 		cities: [
 			{ id: '13101', name: '千代田区' },
 			{ id: '13102', name: '中央区' },
@@ -863,15 +863,15 @@
 		]
 	},
 	{
-		id: '14', 
-		name: '神奈川県', 
-		short: '神奈川', 
-		kana: 'カナガワケン', 
-		en: 'kanagawa', 
+		id: '14',
+		name: '神奈川県',
+		short: '神奈川',
+		kana: 'カナガワケン',
+		en: 'kanagawa',
 		cities: [
 			{
-				id: '14100', 
-				name: '横浜市', 
+				id: '14100',
+				name: '横浜市',
 				words: [
 					{ id: '14101', name: '鶴見区' },
 					{ id: '14102', name: '神奈川区' },
@@ -891,19 +891,24 @@
 					{ id: '14116', name: '泉区' },
 					{ id: '14117', name: '青葉区' },
 					{ id: '14118', name: '都筑区' },
-					{ id: '14130', name: '川崎市' },
-					{ id: '14131', name: '川崎区' },
-					{ id: '14132', name: '幸区' },
-					{ id: '14133', name: '中原区' },
-					{ id: '14134', name: '高津区' },
-					{ id: '14135', name: '多摩区' },
-					{ id: '14136', name: '宮前区' },
-					{ id: '14137', name: '麻生区' }
 				]
 			},
 			{
-				id: '14150', 
-				name: '相模原市', 
+				id: "14130",
+				name: "川崎市",
+				words: [
+					{ id: "14131", name: "川崎区" },
+					{ id: "14132", name: "幸区" },
+					{ id: "14133", name: "中原区" },
+					{ id: "14134", name: "高津区" },
+					{ id: "14135", name: "多摩区" },
+					{ id: "14136", name: "宮前区" },
+					{ id: "14137", name: "麻生区" }
+				]
+			},
+			{
+				id: '14150',
+				name: '相模原市',
 				words: [
 					{ id: '14151', name: '緑区' },
 					{ id: '14152', name: '中央区' },
@@ -943,15 +948,15 @@
 		]
 	},
 	{
-		id: '15', 
-		name: '新潟県', 
-		short: '新潟', 
-		kana: 'ニイガタケン', 
-		en: 'niigata', 
+		id: '15',
+		name: '新潟県',
+		short: '新潟',
+		kana: 'ニイガタケン',
+		en: 'niigata',
 		cities: [
 			{
-				id: '15100', 
-				name: '新潟市', 
+				id: '15100',
+				name: '新潟市',
 				words: [
 					{ id: '15101', name: '北区' },
 					{ id: '15102', name: '東区' },
@@ -995,11 +1000,11 @@
 		]
 	},
 	{
-		id: '16', 
-		name: '富山県', 
-		short: '富山', 
-		kana: 'トヤマケン', 
-		en: 'toyama', 
+		id: '16',
+		name: '富山県',
+		short: '富山',
+		kana: 'トヤマケン',
+		en: 'toyama',
 		cities: [
 			{ id: '16201', name: '富山市' },
 			{ id: '16202', name: '高岡市' },
@@ -1019,11 +1024,11 @@
 		]
 	},
 	{
-		id: '17', 
-		name: '石川県', 
-		short: '石川', 
-		kana: 'イシカワケン', 
-		en: 'ishikawa', 
+		id: '17',
+		name: '石川県',
+		short: '石川',
+		kana: 'イシカワケン',
+		en: 'ishikawa',
 		cities: [
 			{ id: '17201', name: '金沢市' },
 			{ id: '17202', name: '七尾市' },
@@ -1047,11 +1052,11 @@
 		]
 	},
 	{
-		id: '18', 
-		name: '福井県', 
-		short: '福井', 
-		kana: 'フクイケン', 
-		en: 'fukui', 
+		id: '18',
+		name: '福井県',
+		short: '福井',
+		kana: 'フクイケン',
+		en: 'fukui',
 		cities: [
 			{ id: '18201', name: '福井市' },
 			{ id: '18202', name: '敦賀市' },
@@ -1073,11 +1078,11 @@
 		]
 	},
 	{
-		id: '19', 
-		name: '山梨県', 
-		short: '山梨', 
-		kana: 'ヤマナシケン', 
-		en: 'yamanashi', 
+		id: '19',
+		name: '山梨県',
+		short: '山梨',
+		kana: 'ヤマナシケン',
+		en: 'yamanashi',
 		cities: [
 			{ id: '19201', name: '甲府市' },
 			{ id: '19202', name: '富士吉田市' },
@@ -1109,11 +1114,11 @@
 		]
 	},
 	{
-		id: '20', 
-		name: '長野県', 
-		short: '長野', 
-		kana: 'ナガノケン', 
-		en: 'nagano', 
+		id: '20',
+		name: '長野県',
+		short: '長野',
+		kana: 'ナガノケン',
+		en: 'nagano',
 		cities: [
 			{ id: '20201', name: '長野市' },
 			{ id: '20202', name: '松本市' },
@@ -1195,11 +1200,11 @@
 		]
 	},
 	{
-		id: '21', 
-		name: '岐阜県', 
-		short: '岐阜', 
-		kana: 'ギフケン', 
-		en: 'gifu', 
+		id: '21',
+		name: '岐阜県',
+		short: '岐阜',
+		kana: 'ギフケン',
+		en: 'gifu',
 		cities: [
 			{ id: '21201', name: '岐阜市' },
 			{ id: '21202', name: '大垣市' },
@@ -1246,15 +1251,15 @@
 		]
 	},
 	{
-		id: '22', 
-		name: '静岡県', 
-		short: '静岡', 
-		kana: 'シズオカケン', 
-		en: 'shizuoka', 
+		id: '22',
+		name: '静岡県',
+		short: '静岡',
+		kana: 'シズオカケン',
+		en: 'shizuoka',
 		cities: [
 			{
-				id: '22100', 
-				name: '静岡市', 
+				id: '22100',
+				name: '静岡市',
 				words: [
 					{ id: '22101', name: '葵区' },
 					{ id: '22102', name: '駿河区' },
@@ -1262,8 +1267,8 @@
 				]
 			},
 			{
-				id: '22130', 
-				name: '浜松市', 
+				id: '22130',
+				name: '浜松市',
 				words: [
 					{ id: '22131', name: '中区' },
 					{ id: '22132', name: '東区' },
@@ -1310,15 +1315,15 @@
 		]
 	},
 	{
-		id: '23', 
-		name: '愛知県', 
-		short: '愛知', 
-		kana: 'アイチケン', 
-		en: 'aichi', 
+		id: '23',
+		name: '愛知県',
+		short: '愛知',
+		kana: 'アイチケン',
+		en: 'aichi',
 		cities: [
 			{
-				id: '23100', 
-				name: '名古屋市', 
+				id: '23100',
+				name: '名古屋市',
 				words: [
 					{ id: '23101', name: '千種区' },
 					{ id: '23102', name: '東区' },
@@ -1394,11 +1399,11 @@
 		]
 	},
 	{
-		id: '24', 
-		name: '三重県', 
-		short: '三重', 
-		kana: 'ミエケン', 
-		en: 'mie', 
+		id: '24',
+		name: '三重県',
+		short: '三重',
+		kana: 'ミエケン',
+		en: 'mie',
 		cities: [
 			{ id: '24201', name: '津市' },
 			{ id: '24202', name: '四日市市' },
@@ -1432,11 +1437,11 @@
 		]
 	},
 	{
-		id: '25', 
-		name: '滋賀県', 
-		short: '滋賀', 
-		kana: 'シガケン', 
-		en: 'shiga', 
+		id: '25',
+		name: '滋賀県',
+		short: '滋賀',
+		kana: 'シガケン',
+		en: 'shiga',
 		cities: [
 			{ id: '25201', name: '大津市' },
 			{ id: '25202', name: '彦根市' },
@@ -1460,15 +1465,15 @@
 		]
 	},
 	{
-		id: '26', 
-		name: '京都府', 
-		short: '京都', 
-		kana: 'キョウトフ', 
-		en: 'kyoto', 
+		id: '26',
+		name: '京都府',
+		short: '京都',
+		kana: 'キョウトフ',
+		en: 'kyoto',
 		cities: [
 			{
-				id: '26100', 
-				name: '京都市', 
+				id: '26100',
+				name: '京都市',
 				words: [
 					{ id: '26101', name: '北区' },
 					{ id: '26102', name: '上京区' },
@@ -1511,15 +1516,15 @@
 		]
 	},
 	{
-		id: '27', 
-		name: '大阪府', 
-		short: '大阪', 
-		kana: 'オオサカフ', 
-		en: 'osaka', 
+		id: '27',
+		name: '大阪府',
+		short: '大阪',
+		kana: 'オオサカフ',
+		en: 'osaka',
 		cities: [
 			{
-				id: '27100', 
-				name: '大阪市', 
+				id: '27100',
+				name: '大阪市',
 				words: [
 					{ id: '27102', name: '都島区' },
 					{ id: '27103', name: '福島区' },
@@ -1599,15 +1604,15 @@
 		]
 	},
 	{
-		id: '28', 
-		name: '兵庫県', 
-		short: '兵庫', 
-		kana: 'ヒョウゴケン', 
-		en: 'hyogo', 
+		id: '28',
+		name: '兵庫県',
+		short: '兵庫',
+		kana: 'ヒョウゴケン',
+		en: 'hyogo',
 		cities: [
 			{
-				id: '28100', 
-				name: '神戸市', 
+				id: '28100',
+				name: '神戸市',
 				words: [
 					{ id: '28101', name: '東灘区' },
 					{ id: '28102', name: '灘区' },
@@ -1663,11 +1668,11 @@
 		]
 	},
 	{
-		id: '29', 
-		name: '奈良県', 
-		short: '奈良', 
-		kana: 'ナラケン', 
-		en: 'nara', 
+		id: '29',
+		name: '奈良県',
+		short: '奈良',
+		kana: 'ナラケン',
+		en: 'nara',
 		cities: [
 			{ id: '29201', name: '奈良市' },
 			{ id: '29202', name: '大和高田市' },
@@ -1711,11 +1716,11 @@
 		]
 	},
 	{
-		id: '30', 
-		name: '和歌山県', 
-		short: '和歌山', 
-		kana: 'ワカヤマケン', 
-		en: 'wakayama', 
+		id: '30',
+		name: '和歌山県',
+		short: '和歌山',
+		kana: 'ワカヤマケン',
+		en: 'wakayama',
 		cities: [
 			{ id: '30201', name: '和歌山市' },
 			{ id: '30202', name: '海南市' },
@@ -1750,11 +1755,11 @@
 		]
 	},
 	{
-		id: '31', 
-		name: '鳥取県', 
-		short: '鳥取', 
-		kana: 'トットリケン', 
-		en: 'tottori', 
+		id: '31',
+		name: '鳥取県',
+		short: '鳥取',
+		kana: 'トットリケン',
+		en: 'tottori',
 		cities: [
 			{ id: '31201', name: '鳥取市' },
 			{ id: '31202', name: '米子市' },
@@ -1778,11 +1783,11 @@
 		]
 	},
 	{
-		id: '32', 
-		name: '島根県', 
-		short: '島根', 
-		kana: 'シマネケン', 
-		en: 'shimane', 
+		id: '32',
+		name: '島根県',
+		short: '島根',
+		kana: 'シマネケン',
+		en: 'shimane',
 		cities: [
 			{ id: '32201', name: '松江市' },
 			{ id: '32202', name: '浜田市' },
@@ -1806,15 +1811,15 @@
 		]
 	},
 	{
-		id: '33', 
-		name: '岡山県', 
-		short: '岡山', 
-		kana: 'オカヤマケン', 
-		en: 'okayama', 
+		id: '33',
+		name: '岡山県',
+		short: '岡山',
+		kana: 'オカヤマケン',
+		en: 'okayama',
 		cities: [
 			{
-				id: '33100', 
-				name: '岡山市', 
+				id: '33100',
+				name: '岡山市',
 				words: [
 					{ id: '33101', name: '北区' },
 					{ id: '33102', name: '中区' },
@@ -1851,15 +1856,15 @@
 		]
 	},
 	{
-		id: '34', 
-		name: '広島県', 
-		short: '広島', 
-		kana: 'ヒロシマケン', 
-		en: 'hiroshima', 
+		id: '34',
+		name: '広島県',
+		short: '広島',
+		kana: 'ヒロシマケン',
+		en: 'hiroshima',
 		cities: [
 			{
-				id: '34100', 
-				name: '広島市', 
+				id: '34100',
+				name: '広島市',
 				words: [
 					{ id: '34101', name: '中区' },
 					{ id: '34102', name: '東区' },
@@ -1896,11 +1901,11 @@
 		]
 	},
 	{
-		id: '35', 
-		name: '山口県', 
-		short: '山口', 
-		kana: 'ヤマグチケン', 
-		en: 'yamaguchi', 
+		id: '35',
+		name: '山口県',
+		short: '山口',
+		kana: 'ヤマグチケン',
+		en: 'yamaguchi',
 		cities: [
 			{ id: '35201', name: '下関市' },
 			{ id: '35202', name: '宇部市' },
@@ -1924,11 +1929,11 @@
 		]
 	},
 	{
-		id: '36', 
-		name: '徳島県', 
-		short: '徳島', 
-		kana: 'トクシマケン', 
-		en: 'tokushima', 
+		id: '36',
+		name: '徳島県',
+		short: '徳島',
+		kana: 'トクシマケン',
+		en: 'tokushima',
 		cities: [
 			{ id: '36201', name: '徳島市' },
 			{ id: '36202', name: '鳴門市' },
@@ -1957,11 +1962,11 @@
 		]
 	},
 	{
-		id: '37', 
-		name: '香川県', 
-		short: '香川', 
-		kana: 'カガワケン', 
-		en: 'kagawa', 
+		id: '37',
+		name: '香川県',
+		short: '香川',
+		kana: 'カガワケン',
+		en: 'kagawa',
 		cities: [
 			{ id: '37201', name: '高松市' },
 			{ id: '37202', name: '丸亀市' },
@@ -1983,11 +1988,11 @@
 		]
 	},
 	{
-		id: '38', 
-		name: '愛媛県', 
-		short: '愛媛', 
-		kana: 'エヒメケン', 
-		en: 'ehime', 
+		id: '38',
+		name: '愛媛県',
+		short: '愛媛',
+		kana: 'エヒメケン',
+		en: 'ehime',
 		cities: [
 			{ id: '38201', name: '松山市' },
 			{ id: '38202', name: '今治市' },
@@ -2012,11 +2017,11 @@
 		]
 	},
 	{
-		id: '39', 
-		name: '高知県', 
-		short: '高知', 
-		kana: 'コウチケン', 
-		en: 'kochi', 
+		id: '39',
+		name: '高知県',
+		short: '高知',
+		kana: 'コウチケン',
+		en: 'kochi',
 		cities: [
 			{ id: '39201', name: '高知市' },
 			{ id: '39202', name: '室戸市' },
@@ -2055,15 +2060,15 @@
 		]
 	},
 	{
-		id: '40', 
-		name: '福岡県', 
-		short: '福岡', 
-		kana: 'フクオカケン', 
-		en: 'fukuoka', 
+		id: '40',
+		name: '福岡県',
+		short: '福岡',
+		kana: 'フクオカケン',
+		en: 'fukuoka',
 		cities: [
 			{
-				id: '40100', 
-				name: '北九州市', 
+				id: '40100',
+				name: '北九州市',
 				words: [
 					{ id: '40101', name: '門司区' },
 					{ id: '40103', name: '若松区' },
@@ -2075,8 +2080,8 @@
 				]
 			},
 			{
-				id: '40130', 
-				name: '福岡市', 
+				id: '40130',
+				name: '福岡市',
 				words: [
 					{ id: '40131', name: '東区' },
 					{ id: '40132', name: '博多区' },
@@ -2148,11 +2153,11 @@
 		]
 	},
 	{
-		id: '41', 
-		name: '佐賀県', 
-		short: '佐賀', 
-		kana: 'サガケン', 
-		en: 'saga', 
+		id: '41',
+		name: '佐賀県',
+		short: '佐賀',
+		kana: 'サガケン',
+		en: 'saga',
 		cities: [
 			{ id: '41201', name: '佐賀市' },
 			{ id: '41202', name: '唐津市' },
@@ -2177,11 +2182,11 @@
 		]
 	},
 	{
-		id: '42', 
-		name: '長崎県', 
-		short: '長崎', 
-		kana: 'ナガサキケン', 
-		en: 'nagasaki', 
+		id: '42',
+		name: '長崎県',
+		short: '長崎',
+		kana: 'ナガサキケン',
+		en: 'nagasaki',
 		cities: [
 			{ id: '42201', name: '長崎市' },
 			{ id: '42202', name: '佐世保市' },
@@ -2207,15 +2212,15 @@
 		]
 	},
 	{
-		id: '43', 
-		name: '熊本県', 
-		short: '熊本', 
-		kana: 'クマモトケン', 
-		en: 'kumamoto', 
+		id: '43',
+		name: '熊本県',
+		short: '熊本',
+		kana: 'クマモトケン',
+		en: 'kumamoto',
 		cities: [
 			{
-				id: '43100', 
-				name: '熊本市', 
+				id: '43100',
+				name: '熊本市',
 				words: [
 					{ id: '43101', name: '中央区' },
 					{ id: '43102', name: '東区' },
@@ -2271,11 +2276,11 @@
 		]
 	},
 	{
-		id: '44', 
-		name: '大分県', 
-		short: '大分', 
-		kana: 'オオイタケン', 
-		en: 'oita', 
+		id: '44',
+		name: '大分県',
+		short: '大分',
+		kana: 'オオイタケン',
+		en: 'oita',
 		cities: [
 			{ id: '44201', name: '大分市' },
 			{ id: '44202', name: '別府市' },
@@ -2298,11 +2303,11 @@
 		]
 	},
 	{
-		id: '45', 
-		name: '宮崎県', 
-		short: '宮崎', 
-		kana: 'ミヤザキケン', 
-		en: 'miyazaki', 
+		id: '45',
+		name: '宮崎県',
+		short: '宮崎',
+		kana: 'ミヤザキケン',
+		en: 'miyazaki',
 		cities: [
 			{ id: '45201', name: '宮崎市' },
 			{ id: '45202', name: '都城市' },
@@ -2333,11 +2338,11 @@
 		]
 	},
 	{
-		id: '46', 
-		name: '鹿児島県', 
-		short: '鹿児島', 
-		kana: 'カゴシマケン', 
-		en: 'kagoshima', 
+		id: '46',
+		name: '鹿児島県',
+		short: '鹿児島',
+		kana: 'カゴシマケン',
+		en: 'kagoshima',
 		cities: [
 			{ id: '46201', name: '鹿児島市' },
 			{ id: '46203', name: '鹿屋市' },
@@ -2385,11 +2390,11 @@
 		]
 	},
 	{
-		id: '47', 
-		name: '沖縄県', 
-		short: '沖縄', 
-		kana: 'オキナワケン', 
-		en: 'okinawa', 
+		id: '47',
+		name: '沖縄県',
+		short: '沖縄',
+		kana: 'オキナワケン',
+		en: 'okinawa',
 		cities: [
 			{ id: '47201', name: '那覇市' },
 			{ id: '47205', name: '宜野湾市' },
